@@ -14,7 +14,7 @@ Rosetta 2
 =========
 
 [Rosetta 2](https://support.apple.com/en-us/HT211861) comes directly with every Mac that has an Apple silicon chip. It works as a translator 
-between arm64 and x86_64. For our use, we will want to use the Terminal with _and_ without Rosetta (a.k.a. in arm64 mode or in x86_64 mode).
+between arm64 and x86-64. For our use, we will want to use the Terminal with _and_ without Rosetta (a.k.a. in arm64 mode or in x86_64 mode).
 To enable Rosetta, right click the application you intend to open, click _Get Info_ and check the _Open using Rosetta_ box. Now, opening the 
 selected application will automatically launch it in Rosetta mode.
 
